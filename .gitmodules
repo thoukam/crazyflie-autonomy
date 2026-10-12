@@ -1,0 +1,4 @@
+# d'autres sous-modules Git seront declares ici lorsqu'ils seront necessaires.
+[submodule "src/src/crazyswarm2"]
+	path = src/src/crazyswarm2
+	url = https://github.com/IMRCLab/crazyswarm2.git
