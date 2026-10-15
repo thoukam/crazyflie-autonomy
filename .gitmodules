@@ -1,4 +1,10 @@
 # d'autres sous-modules Git seront declares ici lorsqu'ils seront necessaires.
-[submodule "src/src/crazyswarm2"]
-	path = src/src/crazyswarm2
+[submodule "src/crazyswarm2"]
+	path = src/crazyswarm2
 	url = https://github.com/IMRCLab/crazyswarm2.git
+[submodule "src/ros_gz_crazyflie"]
+	path = src/ros_gz_crazyflie
+	url = https://github.com/knmcguire/ros_gz_crazyflie.git
+[submodule "simulation/crazyflie-simulation"]
+	path = simulation/crazyflie-simulation
+	url = https://github.com/bitcraze/crazyflie-simulation.git
